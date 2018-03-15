@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="UNSWbook:war-TEST">
+    <output-path>$PROJECT_DIR$/out/artifacts/UNSWbook_war_TEST</output-path>
+    <root id="archive" name="UNSWbook_war-TEST.war">
+      <element id="artifact" artifact-name="UNSWbook:war exploded" />
+    </root>
+  </artifact>
+</component>
